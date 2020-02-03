@@ -1,8 +1,5 @@
-# html5-assignment - By: Tejeswar Tripathy
-HTML 5 – Assignments
+# html5-assignment - By: Vandana Kumari
 
-## General instructions:
-Please test the solutions in atleast 3 browsers (Chrome, IE & Firefox) to see the browser level support for features and also experience browser specific rendering and messages.
 
 ## 1. Assignment 1:
 
