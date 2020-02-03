@@ -40,24 +40,8 @@ The Web Page should have the below:
 
 5. (Optional) both the sections should also give the option to the user to select the color which will be used as the background color for that section.
 
-## 4. Assignment – 4
 
-On the Web Page of Agricultural Statistical Department of GOI, we need to show the line chart of the yield of Bajra from 2001 to 2007.
-
-The values are as follows (in lakh tonnes)
-
-2001 : 281<br>
-2002 : 277<br>
-2003 : 275<br>
-2004 : 457<br>
-2005 : 200<br>
-2006 : 280<br>
-2007 : 150<br>
-
-    a. Use Canvas and related methods to draw the line chart.
-    b. You are free to use any styles/colors of your choice
-
-## 5. Assignment- 5
+## 4. Assignment- 4
 
 For the BCCI (Board of Control for Cricket in India) web page, we need to show a line chart for the batting statistics of the Indian team for a T20 cricket match.
 
